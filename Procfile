@@ -1,0 +1,1 @@
+web: java -jar spigot-1.12.2.jar --server.port=25565
